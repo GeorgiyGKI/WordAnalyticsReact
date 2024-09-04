@@ -1,0 +1,6 @@
+@WordAnalyticsReact.Server_HostAddress = http://localhost:5298
+
+GET {{WordAnalyticsReact.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
